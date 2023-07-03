@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Wagen/static/css/main.bbe32737.css",
+    "main.js": "/Wagen/static/js/main.32cc9a4b.js",
+    "static/media/remixicon.svg?t=1687271883607": "/Wagen/static/media/remixicon.636515c9a8963df4380d.svg",
+    "static/media/Capture d’écran (222).png": "/Wagen/static/media/Capture d’écran (222).4bfb1967d5ca08ec97ee.png",
+    "static/media/remixicon.eot?t=1687271883607": "/Wagen/static/media/remixicon.83e9a22ce7f199999169.eot",
+    "static/media/remixicon.ttf?t=1687271883607": "/Wagen/static/media/remixicon.0bcb16fc20c3d365da14.ttf",
+    "static/media/remixicon.woff?t=1687271883607": "/Wagen/static/media/remixicon.3f0f84f17d39491e07ff.woff",
+    "static/media/remixicon.woff2?t=1687271883607": "/Wagen/static/media/remixicon.85992a032c7668836563.woff2",
+    "static/media/bmw-offer.png": "/Wagen/static/media/bmw-offer.ecfb9ac1bf7b5ef615a6.png",
+    "static/media/blog-1.jpg": "/Wagen/static/media/blog-1.e4949dd1d3e0ec0543c5.jpg",
+    "static/media/nissan-offer.png": "/Wagen/static/media/nissan-offer.6eddc86310b7cac538ae.png",
+    "static/media/blog-2.jpg": "/Wagen/static/media/blog-2.dce2eeb8549652564638.jpg",
+    "static/media/toyota-offer-2.png": "/Wagen/static/media/toyota-offer-2.861de085d1c782df9e9d.png",
+    "static/media/offer-toyota.png": "/Wagen/static/media/offer-toyota.4b2435e447a7832d9f4a.png",
+    "static/media/mercedes-offer.png": "/Wagen/static/media/mercedes-offer.d177a4fe9e2002ddb24d.png",
+    "static/media/blog-3.jpg": "/Wagen/static/media/blog-3.0cd3766389d5b56badaa.jpg",
+    "static/media/drive.jpg": "/Wagen/static/media/drive.b72e6f2d1ccdbd6550a9.jpg",
+    "static/media/slick.svg": "/Wagen/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Wagen/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Wagen/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Wagen/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Wagen/index.html",
+    "main.bbe32737.css.map": "/Wagen/static/css/main.bbe32737.css.map",
+    "main.32cc9a4b.js.map": "/Wagen/static/js/main.32cc9a4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbe32737.css",
+    "static/js/main.32cc9a4b.js"
+  ]
+}
